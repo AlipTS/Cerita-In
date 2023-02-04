@@ -1,0 +1,7 @@
+.index-part .card:hover {
+    opacity: 50%;
+}
+.index-part .card-img {
+    height: 300px;
+    object-fit: cover;
+  }
